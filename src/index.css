@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* GLOBAL FIXES */
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* important: background + no horizontal scroll */
+body {
+  background-color: #151515; /* same as your site bg */
+  color: #ffffff;
+  overflow-x: hidden;
+}

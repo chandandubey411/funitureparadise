@@ -88,7 +88,9 @@ export default function Contact() {
                 <span className="font-semibold text-amber-400">
                   Timings:
                 </span>{" "}
-                Mon – Sat, 10:00 AM – 8:00 PM
+                Mon , 10:00 AM – 8:00 PM <br /> 
+                <span className="px-8"></span>Tue , Close <br />
+                <span className="px-8"></span>Wed - Sun , 10:00 AM – 8:00 PM
               </div>
             </div>
           </div>

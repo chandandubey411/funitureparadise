@@ -95,9 +95,11 @@ export default function Footer() {
               </a>
             </p>
             <p>
-              Timings: Mon – Sat, 10:00 AM – 8:00 PM
+              Timings: Mon , 10:00 AM – 8:00 PM
               <br />
-              Sunday: By appointment
+              Tuesday: Close
+              <br />
+              Wed - Sun , 10:00 AM – 8:00 PM
             </p>
           </div>
         </div>
